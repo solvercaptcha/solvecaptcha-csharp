@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <PackageId>solvecaptcha-csharp</PackageId>
+        <Version>1.4.0</Version>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <Authors>solvecaptcha</Authors>
+        <Company>solvecaptcha</Company>
+        <Description>C# library for easy integration with the API of solvecaptcha captcha solving service to bypass recaptcha, funcaptcha, geetest and solve any other captchas.</Description>
+        <PackageTags>solvecaptcha;Captcha;reCAPTCHA;CAPTCHA solving;CAPTCHA bypass;C#;.NET;API;Image Recognition;Audio CAPTCHA;Solve CAPTCHA;Anti-bot;CAPTCHA service;CAPTCHA SDK</PackageTags>
+    </PropertyGroup>
+    <PropertyGroup>
+        <TargetFrameworks>netcoreapp3.1;net5.0;net6.0;net7.0</TargetFrameworks>
+    </PropertyGroup>
+    <ItemGroup>
+        <None Include="..\README.md" pack="true" PackagePath="." />
+    </ItemGroup>
+</Project>
