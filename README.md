@@ -1,14 +1,14 @@
 ![image](https://github.com/user-attachments/assets/30f96d42-d144-4cd1-8785-654231b010c8)
 
 
-<a href="https://github.com/solvecaptcha/solvecaptcha-python"><img src="https://github.com/user-attachments/assets/37e1d860-033b-4cf3-a158-468fc6b4debc" width="82" height="30" alt="python library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-javascript"><img src="https://github.com/user-attachments/assets/e81e9714-7bd8-40f9-971c-b08bf9da6b97" width="36" height="30" alt="javascript library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-go"><img src="https://github.com/user-attachments/assets/ab22182e-6cb2-41fa-91f4-d5e89c6d7c6f" width="63" height="30" alt="go library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-ruby"><img src="https://github.com/user-attachments/assets/0270d56f-79b0-4c95-9b09-4de89579914b" width="75" height="30" alt="ruby library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-cpp"><img src="https://github.com/user-attachments/assets/36de8512-acfd-44fb-bb1f-b7c793a3f926" width="45" height="30" alt="cpp library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-php"><img src="https://github.com/user-attachments/assets/e8797843-3f61-4fa9-a155-ab0b21fb3858" width="52" height="30" alt="php library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-java"><img src="https://github.com/user-attachments/assets/a3d923f6-4fec-4c07-ac50-e20da6370911" width="50" height="30" alt="java library"></a>
-<a href="https://github.com/solvecaptcha/solvecaptcha-csharp"><img src="https://github.com/user-attachments/assets/4dff0a3e-0ed7-46bd-8c59-4b95451aa54d" width="38" height="30" alt="csharp library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-python"><img src="https://github.com/user-attachments/assets/37e1d860-033b-4cf3-a158-468fc6b4debc" width="82" height="30" alt="python library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-javascript"><img src="https://github.com/user-attachments/assets/e81e9714-7bd8-40f9-971c-b08bf9da6b97" width="36" height="30" alt="javascript library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-go"><img src="https://github.com/user-attachments/assets/ab22182e-6cb2-41fa-91f4-d5e89c6d7c6f" width="63" height="30" alt="go library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-ruby"><img src="https://github.com/user-attachments/assets/0270d56f-79b0-4c95-9b09-4de89579914b" width="75" height="30" alt="ruby library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-cpp"><img src="https://github.com/user-attachments/assets/36de8512-acfd-44fb-bb1f-b7c793a3f926" width="45" height="30" alt="cpp library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-php"><img src="https://github.com/user-attachments/assets/e8797843-3f61-4fa9-a155-ab0b21fb3858" width="52" height="30" alt="php library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-java"><img src="https://github.com/user-attachments/assets/a3d923f6-4fec-4c07-ac50-e20da6370911" width="50" height="30" alt="java library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-csharp"><img src="https://github.com/user-attachments/assets/4dff0a3e-0ed7-46bd-8c59-4b95451aa54d" width="38" height="30" alt="csharp library"></a>
 
 # C# Captcha solver (.NET): Bypass reCAPTCHA, Cloudflare, hCaptcha, GeeTest and more
 
