@@ -1,4 +1,4 @@
-# Contributing to solvecaptcha-go
+# Contributing to solvecaptcha-csharp
 
 Thank you for considering contributing to the solvecaptcha-csharp! By contributing, you're helping improve the project and enabling others to benefit from your improvements.
 
