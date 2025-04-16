@@ -1,0 +1,36 @@
+name: Publish NuGet Package
+
+on:
+  push:
+    tags:
+      - 'v*'  # Triggers on push of a tag that starts with "v" (e.g., v1.0.0)
+
+jobs:
+  build-test-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: '7.0.x'  # Specify the required .NET SDK version (e.g., 6.0.x or another version)
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build project
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Run tests
+        run: dotnet test SolveCaptcha.Tests/SolveCaptcha.Tests.csproj --configuration Release --no-build
+
+      - name: Pack project
+        run: dotnet pack --configuration Release --no-build --output nupkg
+
+      - name: Publish package to NuGet
+        env:
+          NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
+        run: dotnet nuget push nupkg/solvecaptcha-csharp.*.nupkg --api-key $NUGET_API_KEY --source https://api.nuget.org/v3/index.json
