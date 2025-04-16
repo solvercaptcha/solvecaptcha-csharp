@@ -1,6 +1,15 @@
 # solvecaptcha-csharp package releasing
 
-## Step 1. Build the package with the updated version
+## Release Using GitHub actions (Recommended)
+
+```
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+## Manualy
+
+### Step 1. Build the package with the updated version
 
 1. Open a terminal or command prompt and navigate to the directory where your project is located (the `SolveCaptcha.csproj` file).
 
