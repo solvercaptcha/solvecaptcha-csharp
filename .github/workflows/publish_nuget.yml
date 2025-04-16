@@ -16,7 +16,7 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v2
         with:
-          dotnet-version: '7.0.x'  # Specify the required .NET SDK version (e.g., 6.0.x or another version)
+          dotnet-version: '7.0.x'  # Specify the required .NET SDK version
 
       - name: Restore dependencies
         run: dotnet restore
@@ -24,8 +24,13 @@ jobs:
       - name: Build project
         run: dotnet build --configuration Release --no-restore
 
-      - name: Run tests
-        run: dotnet test SolveCaptcha.Tests/SolveCaptcha.Tests.csproj --configuration Release --no-build
+      # Note:
+      # Tests for .NET Core 3.1, .NET 5.0, and .NET 6.0 are not run in this CI workflow,
+      # because the GitHub Actions environment is configured with .NET 7.0 runtime only.
+      # To run tests for .NET Core 3.1, .NET 5.0, or .NET 6.0, execute the tests locally
+      # on a machine where the corresponding runtime versions are installed.
+      - name: Run tests (net7.0 only)
+        run: dotnet test SolveCaptcha.Tests/SolveCaptcha.Tests.csproj --framework net7.0 --configuration Release --no-build
 
       - name: Pack project
         run: dotnet pack --configuration Release --no-build --output nupkg
