@@ -1,14 +1,14 @@
-![image](https://github.com/user-attachments/assets/30f96d42-d144-4cd1-8785-654231b010c8)
+![image](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/main_solvecaptcha.jpg)
 
 
-<a href="https://github.com/solvercaptcha/solvecaptcha-python"><img src="https://github.com/user-attachments/assets/37e1d860-033b-4cf3-a158-468fc6b4debc" width="82" height="30" alt="python library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-javascript"><img src="https://github.com/user-attachments/assets/e81e9714-7bd8-40f9-971c-b08bf9da6b97" width="36" height="30" alt="javascript library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-go"><img src="https://github.com/user-attachments/assets/ab22182e-6cb2-41fa-91f4-d5e89c6d7c6f" width="63" height="30" alt="go library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-ruby"><img src="https://github.com/user-attachments/assets/0270d56f-79b0-4c95-9b09-4de89579914b" width="75" height="30" alt="ruby library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-cpp"><img src="https://github.com/user-attachments/assets/36de8512-acfd-44fb-bb1f-b7c793a3f926" width="45" height="30" alt="cpp library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-php"><img src="https://github.com/user-attachments/assets/e8797843-3f61-4fa9-a155-ab0b21fb3858" width="52" height="30" alt="php library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-java"><img src="https://github.com/user-attachments/assets/a3d923f6-4fec-4c07-ac50-e20da6370911" width="50" height="30" alt="java library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-csharp"><img src="https://github.com/user-attachments/assets/4dff0a3e-0ed7-46bd-8c59-4b95451aa54d" width="38" height="30" alt="csharp library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-python"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/python_badge.png" width="82" height="30" alt="python library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-javascript"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/js_badge.png" width="36" height="30" alt="javascript library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-go"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/go_badge.png" width="63" height="30" alt="go library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-ruby"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ruby_badge.png" width="75" height="30" alt="ruby library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-cpp"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/cpp_badge.png" width="45" height="30" alt="cpp library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-php"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/php_badge.png" width="52" height="30" alt="php library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-java"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/java_badge.png" width="50" height="30" alt="java library"></a>
+<a href="https://github.com/solvercaptcha/solvecaptcha-csharp"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/csharp_badge_active.png" width="38" height="30" alt="csharp library"></a>
 
 # C# Captcha solver (.NET): Bypass reCAPTCHA, Cloudflare, hCaptcha, GeeTest and more
 
@@ -633,8 +633,8 @@ catch (TimeoutException e)
 
 ## Get in touch
 
-<a href="mailto:info@solvecaptcha.com"><img src="https://github.com/user-attachments/assets/539df209-7c85-4fa5-84b4-fc22ab93fac7" width="80" height="30" alt="Send email to support"></a>
-<a href="https://solvecaptcha.com/support/faq#create-ticket"><img src="https://github.com/user-attachments/assets/be044db5-2e67-46c6-8c81-04b78bd99650" width="81" height="30" alt="Create ticket"></a>
+<a href="mailto:info@solvecaptcha.com"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/email_button.png" width="80" height="30" alt="Send email to support"></a>
+<a href="https://solvecaptcha.com/support/faq#create-ticket"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ticket_button.png" width="81" height="30" alt="Create ticket"></a>
 
 # License
 
