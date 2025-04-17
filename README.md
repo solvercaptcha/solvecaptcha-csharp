@@ -1,14 +1,14 @@
 ![image](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/main_solvecaptcha.jpg)
 
 
-<a href="https://github.com/solvercaptcha/solvecaptcha-python"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/python_badge.png" width="82" height="30" alt="python library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-javascript"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/js_badge.png" width="36" height="30" alt="javascript library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-go"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/go_badge.png" width="63" height="30" alt="go library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-ruby"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ruby_badge.png" width="75" height="30" alt="ruby library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-cpp"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/cpp_badge.png" width="45" height="30" alt="cpp library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-php"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/php_badge.png" width="52" height="30" alt="php library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-java"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/java_badge.png" width="50" height="30" alt="java library"></a>
-<a href="https://github.com/solvercaptcha/solvecaptcha-csharp"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/csharp_badge_active.png" width="38" height="30" alt="csharp library"></a>
+[![python library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/python_badge.png)](https://github.com/solvercaptcha/solvecaptcha-python)
+[![javascript library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/js_badge.png)](https://github.com/solvercaptcha/solvecaptcha-javascript)
+[![go library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/go_badge.png)](https://github.com/solvercaptcha/solvecaptcha-go)
+[![ruby library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ruby_badge.png)](https://github.com/solvercaptcha/solvecaptcha-ruby)
+[![cpp library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/cpp_badge.png)](https://github.com/solvercaptcha/solvecaptcha-cpp)
+[![php library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/php_badge.png)](https://github.com/solvercaptcha/solvecaptcha-php)
+[![java library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/java_badge.png)](https://github.com/solvercaptcha/solvecaptcha-java)
+[![csharp library](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/csharp_badge_active.png)](https://github.com/solvercaptcha/solvecaptcha-csharp)
 
 # C# Captcha solver (.NET): Bypass reCAPTCHA, Cloudflare, hCaptcha, GeeTest and more
 
@@ -633,8 +633,8 @@ catch (TimeoutException e)
 
 ## Get in touch
 
-<a href="mailto:info@solvecaptcha.com"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/email_button.png" width="80" height="30" alt="Send email to support"></a>
-<a href="https://solvecaptcha.com/support/faq#create-ticket"><img src="https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ticket_button.png" width="81" height="30" alt="Create ticket"></a>
+[![Send email to support](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/email_button.png)](mailto:info@solvecaptcha.com)
+[![Create ticket](https://raw.githubusercontent.com/solvercaptcha/solvecaptcha-csharp/main/assets/ticket_button.png)](https://solvecaptcha.com/support/faq#create-ticket)
 
 # License
 
